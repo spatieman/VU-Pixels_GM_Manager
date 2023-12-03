@@ -8,7 +8,7 @@
 - Added: on first server spawn message, it spits out the GM preset name..
 
 # Version 1.0.1
-- Fix: randomseed uses now ostime.
+- Fix: randomseed uses now ostime. (thnxs Doc-Ice-Elm for the fix)
 
 # Version 1.0.0
 - Initial setup
