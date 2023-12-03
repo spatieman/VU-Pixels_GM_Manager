@@ -1,0 +1,13 @@
+{
+    "Name": "GunMaster preset selector",
+    "Description": "random selects a Gun Master preset",
+    "Version": "1.0.3",
+    "Reason": "random number check fix",
+    "Authors": [ "iamadeadpixel" ],
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    },
+    "Tags": [ "pixels-gm-rotation" ]
+}
+
